@@ -69,7 +69,7 @@ rand.Seed(time.Now().UnixNano())
 このプロジェクトを実行するには、Go言語の1.9以上が必要です。以下のコマンドを実行して、プロジェクトをクローンしてください。
 
 ```sh
-git clone https://github.com/your-username/blackjack.git
+git clone https://github.com/mzsima/go-blackjack-cli.git
 ```
 
 クローンしたディレクトリに移動し、以下のコマンドを実行して、プログラムを実行してください。
